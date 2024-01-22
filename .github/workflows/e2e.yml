@@ -1,5 +1,5 @@
 name: "e2e"
-const { faker } = require('@faker-js/faker');
+#const { faker } = require('@faker-js/faker');
 on: [push]
 jobs:
   test-e2e:
