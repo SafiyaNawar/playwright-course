@@ -42,7 +42,7 @@ test.describe('Home', () => {
             test('Verify link is enabled using CSS and text selector', async ({ page }) => {
                 //find text locator that is unique under the sub section/locator
                 //const homeText1 = await page.locator('#zak-mobile-menu >> text=Home')
-                const hometext1 = await homePage.homeText
+                //const hometext1 = await homePage.homeText
                 const homeText2 = page.locator('#zak-mobile-menu:has-text("Home")')
                 //verify heading text is visible in whichever page
                 await expect(homeText2).toBeEnabled();                      
