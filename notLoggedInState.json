@@ -2,10 +2,10 @@
   "cookies": [
     {
       "name": "wp_wpfileupload_bcee46caf8128c4169fb42a56c1b36e7",
-      "value": "WbaqQM5wTqQWqtnd9fjmGWb3DQ9EO2zN",
+      "value": "GOnCPHzGKTOBDEcYH8SbbFcYYKBNZ1KR",
       "domain": "practice.sdetunicorns.com",
       "path": "/",
-      "expires": 1705862937.381016,
+      "expires": 1706118761.81355,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -22,7 +22,7 @@
     },
     {
       "name": "sbjs_current_add",
-      "value": "fd%3D2024-01-19%2019%3A18%3A59%7C%7C%7Cep%3Dhttps%3A%2F%2Fpractice.sdetunicorns.com%2Fmy-account%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-01-22%2017%3A22%3A43%7C%7C%7Cep%3Dhttps%3A%2F%2Fpractice.sdetunicorns.com%2Fmy-account%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".practice.sdetunicorns.com",
       "path": "/",
       "expires": -1,
@@ -32,7 +32,7 @@
     },
     {
       "name": "sbjs_first_add",
-      "value": "fd%3D2024-01-19%2019%3A18%3A59%7C%7C%7Cep%3Dhttps%3A%2F%2Fpractice.sdetunicorns.com%2Fmy-account%2F%7C%7C%7Crf%3D%28none%29",
+      "value": "fd%3D2024-01-22%2017%3A22%3A43%7C%7C%7Cep%3Dhttps%3A%2F%2Fpractice.sdetunicorns.com%2Fmy-account%2F%7C%7C%7Crf%3D%28none%29",
       "domain": ".practice.sdetunicorns.com",
       "path": "/",
       "expires": -1,
@@ -75,7 +75,7 @@
       "value": "pgs%3D1%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fpractice.sdetunicorns.com%2Fmy-account%2F",
       "domain": ".practice.sdetunicorns.com",
       "path": "/",
-      "expires": 1705691939,
+      "expires": 1705947763,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -85,7 +85,7 @@
       "value": "%22%22",
       "domain": ".sdetunicorns.com",
       "path": "/",
-      "expires": 1740250141.700605,
+      "expires": 1740505966.452189,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -95,7 +95,7 @@
       "value": "%22%22",
       "domain": ".sdetunicorns.com",
       "path": "/",
-      "expires": 1705949341,
+      "expires": 1706205166,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -105,7 +105,7 @@
       "value": "%22%22",
       "domain": ".sdetunicorns.com",
       "path": "/",
-      "expires": 1737226141,
+      "expires": 1737481966,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -117,7 +117,7 @@
       "localStorage": [
         {
           "name": "storeApiNonce",
-          "value": "{\"nonce\":\"307ff0cec1\",\"timestamp\":1705690140.889}"
+          "value": "{\"nonce\":\"b92e46193e\",\"timestamp\":1705945965.499}"
         }
       ]
     }
